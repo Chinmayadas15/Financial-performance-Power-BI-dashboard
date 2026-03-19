@@ -102,10 +102,8 @@ Revenue % = Net Sales / Overall Net Sales
 
 ---
 
-## 📁 Project Files
-
-"C:\Users\chinm\Desktop\Financial Performance Analysis Dashboard.pbix"
-* 🖼️ Dashboard Screenshots (YTD, QTD, MTD)
+## 📥 Download Dashboard  
+👉 [Click here to download Power BI file](your-link-here)
 
 ---
 
