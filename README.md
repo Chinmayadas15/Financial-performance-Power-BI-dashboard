@@ -67,18 +67,15 @@ Revenue % = Net Sales / Overall Net Sales
 
 ---
 
-## 📷 Dashboard Preview
+## 📷 Dashboard Preview  
 
-### 🔹 YTD Dashboard
-
+### 🔹 YTD Dashboard  
 ![YTD Dashboard](YTD%20Dashboard.jpeg)
 
-### 🔹 QTD Dashboard
-
+### 🔹 QTD Dashboard  
 ![QTD Dashboard](QTD%20Dashboard.jpeg)
 
-### 🔹 MTD Dashboard
-
+### 🔹 MTD Dashboard  
 ![MTD Dashboard](MTD%20Dashboard.png)
 
 ---
@@ -104,7 +101,7 @@ Revenue % = Net Sales / Overall Net Sales
 
 ## 📁 Project Files
 
-* 📊 Power BI Dashboard (.pbix)
+"C:\Users\chinm\Desktop\Financial Performance Analysis Dashboard.pbix"
 * 🖼️ Dashboard Screenshots (YTD, QTD, MTD)
 
 ---
